@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.top-logo{
+    max-height: 50px;
+    max-width: 200px;
+    height: auto;
+    width: auto;
+}

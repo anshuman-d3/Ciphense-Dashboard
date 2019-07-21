@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-actions{
+    display: flex;
+}
+
+.user-avatar{
+    max-height: 35px;
+    max-width: 35px;
+    height: auto;
+    width: auto;
+    margin-right: 10px;
+}
+
+.ant-layout-header{
+    background: #3B3E3F;
+}
